@@ -27,7 +27,7 @@ This repository contains a basic implementation of a weak neural network for pla
 
 Install pytorch, py chess
 
-Note: Training the network from scratch may take significant time and computational resources. You can consider using a [pre-trained](https://www.mediafire.com/file/b4wnzay27xpothy/mtcs.pth/file) model as a starting point **you can training it in mcts.py**.
+Note: Training the network from scratch may take significant time and computational resources. You can consider using a [pre-trained] model as a starting point **you can training it in mcts.py**.
 
 ## Future Development
 
