@@ -1,5 +1,6 @@
 # AlphaPawn
 git blocks the link to the file with the model, so to provide the model, write to issues
+
 git блокирует ссылку на файл с моделью, поэтому для предоставления модели напишите в проблемы
 ## Overview
 
