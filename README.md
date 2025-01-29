@@ -1,8 +1,4 @@
 # AlphaPawn
-git blocks the link to the file with the model, so to provide the model, write to issues
-
-git блокирует ссылку на файл с моделью, поэтому для предоставления модели напишите в проблемы
-## Overview
 
 This repository contains a basic implementation of a weak neural network for playing chess, using Monte Carlo Tree Search (MCTS) and self-play to improve its skills. This network is designed to be a starting point for further development and training, with the ultimate goal of surpassing its current abilities.
 
